@@ -1,6 +1,6 @@
 """ A repressentation of a board for the tic-tac-toe game. """
 
-""" Worachot Wongkhuea 62365541"""
+""" Boonsita Puangart 62363660"""
 
 class TicTacToeBoard :
     def __init__(self):

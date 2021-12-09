@@ -1,5 +1,4 @@
 from board import TicTacToeBoard
-
 def test_O_row1():
     board = TicTacToeBoard()
 
