@@ -2,7 +2,7 @@
 
 """ Boonsita Puangart 62363660"""
 
-class TicTacToeBoard :
+class TictactoeBoard :
     def __init__(self):
         self.board = ["."]*9
 
